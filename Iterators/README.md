@@ -25,7 +25,7 @@ Depending upon the functionality of iterators they can be categorized as follows
 **Bidirectional iterators** – They have all the features of forward iterators along with the fact that they can move in both the directions, hence the name bidirectional.
 
 
-**Random-Access iterators** – The most powerful of all. They are not limited to moving sequentially and can randomly access any element inside the container. 
+**Random-Access iterators** – They are not limited to moving sequentially and can randomly access any element inside the container. The most powerful of all.  
 
 
 To view the sample source code - [Click Here](https://github.com/tridibsamanta/CPP_STL/blob/master/Iterators/iterator.cpp) ! 
