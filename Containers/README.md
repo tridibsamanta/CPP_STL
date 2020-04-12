@@ -28,7 +28,7 @@ Container class templates are of the following types –
   •	priority_queue
 
 
-**Associative Containers** – The elements in an associative container are sorted. They are stored and retrieved by a key, and support efficient lookup and retrieval of elements by a key. 
+**Associative Containers** – The elements in an associative container are sorted. They are stored and retrieved by a key and support efficient lookup and retrieval of elements by a key. 
 
   •	map
   •	set
