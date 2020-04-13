@@ -18,7 +18,7 @@ Container class templates are of the following types –
   •	[deque](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/deque.cpp)
   •	[forward_list](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/forward_list.cpp)
   •	[list](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/list.cpp)
-  •	string
+  •	[string](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/string.cpp)
 
 
 **Container Adaptors** – Essentially, an adaptor is a mechanism for making one thing act like another. A container adaptor takes an existing container type and makes it act like a different type.
