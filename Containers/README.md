@@ -13,7 +13,7 @@ Container class templates are of the following types –
 
 **Sequence Containers** - These containers store elements which can be accessed in a sequential manner.
 
-  •	array
+  •	[array](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/array.cpp)
   •	vector
   •	deque
   •	forward_list
