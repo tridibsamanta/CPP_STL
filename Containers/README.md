@@ -15,7 +15,7 @@ Container class templates are of the following types –
 
   •	[array](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/array.cpp)
   •	[vector](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/vector.cpp)
-  •	deque
+  •	[deque](https://github.com/tridibsamanta/CPP_STL/blob/master/Containers/deque.cpp)
   •	forward_list
   •	list
   •	string
