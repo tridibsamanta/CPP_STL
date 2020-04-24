@@ -2,5 +2,5 @@
 
 - [Algorithms](https://github.com/tridibsamanta/CPP_STL/tree/master/Algorithms)
 - [Containers](https://github.com/tridibsamanta/CPP_STL/tree/master/Containers)
-- Functors
+- [Functors](https://github.com/tridibsamanta/CPP_STL/tree/master/Functors)
 - Iterators
