@@ -5,4 +5,4 @@
 - [Functors](https://github.com/tridibsamanta/CPP_STL/tree/master/Functors)
 - [Iterators](https://github.com/tridibsamanta/CPP_STL/tree/master/Iterators)
 
-***Contributed with :blue_heart: by Tridib***
+***Contributed with :blue_heart: by Tridib.***
