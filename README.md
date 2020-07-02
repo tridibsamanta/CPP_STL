@@ -1,4 +1,4 @@
-## Standard Template Library (STL) in C++ :fire:
+## Standard Template Library (STL) in C++. :fire:
 
 - [Algorithms](https://github.com/tridibsamanta/CPP_STL/tree/master/Algorithms)
 - [Containers](https://github.com/tridibsamanta/CPP_STL/tree/master/Containers)
